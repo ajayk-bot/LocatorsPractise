@@ -1,0 +1,6 @@
+[INFO ] 2021-04-12 14:22:24.455 [main] LoggingClass - chrome browser was launched. Excuated in @BeforeClass annotation
+[INFO ] 2021-04-12 14:22:29.752 [main] LoggingClass - chrome browser was closed. Excuated in @AfterClass annotation
+[INFO ] 2021-08-28 14:00:18.729 [main] LoggingClass - chrome browser was launched. Excuated in @BeforeClass annotation
+[ERROR] 2021-08-28 14:00:23.478 [main] LoggingClass - wrong locators
+[INFO ] 2021-08-28 14:00:23.478 [main] LoggingClass - Test completed. Excuated in @Test annotation
+[INFO ] 2021-08-28 14:00:24.338 [main] LoggingClass - chrome browser was closed. Excuated in @AfterClass annotation

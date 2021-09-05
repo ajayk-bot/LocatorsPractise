@@ -1,0 +1,8 @@
+[INFO ] 2021-09-02 20:08:36.074 [main] Logs - Launching the browser
+[INFO ] 2021-09-02 20:08:40.250 [main] Logs - Making entries in UserName and Password and click
+[WARN ] 2021-09-02 20:08:46.217 [main] Logs - tear down is called here goign to close everyting.
+[INFO ] 2021-09-02 20:08:46.237 [main] Logs - Faling this test case to verify screenshotcapturing code have been written in Listners
+[INFO ] 2021-09-02 21:02:56.718 [main] Logs - Launching the browser
+[INFO ] 2021-09-02 21:03:04.056 [main] Logs - Making entries in UserName and Password and click
+[WARN ] 2021-09-02 21:03:09.008 [main] Logs - tear down is called here goign to close everyting.
+[INFO ] 2021-09-02 21:03:09.018 [main] Logs - Faling this test case to verify screenshotcapturing code have been written in Listners
